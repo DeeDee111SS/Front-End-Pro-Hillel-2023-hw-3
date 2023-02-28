@@ -1,4 +1,4 @@
-let name = 'John';
-let admin = name;
+let name1 = 'John';
+let admin = name1;
 alert(admin);
 
